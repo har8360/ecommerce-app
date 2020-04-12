@@ -1,6 +1,6 @@
 import React from 'react';
 import HomePage from './pages/homepage/homepage.component';
-import HatsPage from './pages/hatspage/hatspage.component';
+//import HatsPage from './pages/hatspage/hatspage.component';
 import ShopPage from './pages/shop/shop.component';
 import Header from './components/header/header.component';
 import SignInAndSignUp from './pages/sign-in-sign-up/sign-in-sign-up.component';
